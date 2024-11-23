@@ -1,2 +1,3 @@
 # Website
-I write here about Mathematics and Data Scinece. I love both of theme and I try to learn more and publish more details for anyone.
+I delve into mathematics and data science with profound passion, weaving together the elegance of numbers and the power of computation. These disciplines captivate my intellect, driving me to explore their depths, uncover their mysteries, and share the wealth of knowledge with all who seek it. Through my endeavors, I aspire to illuminate the path for fellow enthusiasts, fostering a deeper understanding and appreciation for these magnificent fields.
+- Sky is your limit.
